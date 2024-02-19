@@ -125,12 +125,12 @@ function App() {
         <br />
 
         {/*/ End Feautes */}
-        {/* Start Fun-facts */}
+        {}
         <div id="fun-facts" className="fun-facts section overlay">
           <div className="container">
             <div className="row">
               <div className="col-lg-3 col-md-6 col-12">
-                {/* Start Single Fun */}
+                {}
                 <div className="single-fun">
                   <i className="icofont icofont-home" />
                   <div className="content">
